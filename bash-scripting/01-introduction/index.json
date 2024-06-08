@@ -1,11 +1,12 @@
 {
-  "title": "Introduction",
-  "description": "Introduction générale"
-  "details": 
+  "title": "Introduction au scripting Bash",
+  "description": "Description de l'atelier",
+  "details": {
     "intro": {
       "text": "introduction.md",
       "background": "setup.sh"
-    },
+    }
+  },
   "backend": {
     "imageid": "ubuntu"
   }
