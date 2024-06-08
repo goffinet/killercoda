@@ -1,4 +1,13 @@
 {
   "title": "Introduction",
   "description": "Introduction générale"
+  "details": {
+    "intro": {
+      "text": "introduction.md",
+      "background": "setup.sh"
+    }
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
 }
