@@ -1,6 +1,6 @@
 {
   "items": [
     { "path": "learning-linux", "title": "Learning Linux" },
-    { "path": "Bash Scripting" }
+    { "path": "bash-scripting" }
   ]
 }
